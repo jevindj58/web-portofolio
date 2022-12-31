@@ -1,0 +1,71 @@
+body{
+	background: linear-gradient(to bottom, #73c73c, #44821a, #204705);
+	width: 100%;
+	font-family: "candara", sans-serif;
+	margin: 0 auto;
+}
+.header{
+	width: 90%;
+	margin: auto;
+	height: 100px;
+	line-height: 110px;
+	background: linear-gradient( #15707a, #3d73a6);
+	background-image: url(@ucl.png);
+	border-radius: 20px;
+	box-shadow: 0 0 20px 0px black;
+	color: black;
+}
+.menu{
+	background-color: #145e34;
+	border-radius: 20px;
+	box-shadow: 0 0 15px 0px black;
+	height: 30px;
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li a{
+	float: left;
+	width: 120px;
+	display: block;
+	border-radius: 20px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	background-color: #3d73a6;
+	border-radius: 20px;
+	display: block;
+}
+.content{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	height: 100%;
+	padding: 0.1px;
+	background: #0b1a6e;
+	border-radius: 10px;
+	color: whitesmoke;
+}
+.content4{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	height: 100%;
+	padding: 0.1px;
+	background: #1b286e;
+	border-radius: 10px;
+	color: whitesmoke;
+}
+.border{
+	border: 2px solid #944b4a;
+	margin-top: 0;
+	padding-bottom: 1pc;
+	padding-left: 2pc;
+	padding-right: 2pc;
+}

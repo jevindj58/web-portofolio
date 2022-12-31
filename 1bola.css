@@ -1,0 +1,90 @@
+body{
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+	width: 100%;
+	font-family: "candara", sans-serif;
+	margin: 0 auto;
+}
+.header{
+	width: 90%;
+	margin: auto;
+	height: 100px;
+	line-height: 120px;
+	background: linear-gradient( #1c397a, #631510);
+	border-radius: 10px;
+	box-shadow: 0 0 20px 0px black;
+	color: white;
+}
+.menu{
+	background-color: ##114d1a;
+	border-radius: 10px;
+	box-shadow: 0 0 15px 0px black;
+	height: 50px;
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li a{
+	float: left;
+	width: 120px;
+	display: block;
+	border-radius: 10px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	background-color: #23a2f6;
+	border-radius: 10px;
+	display: block;
+}
+.content{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	height: 100%;
+	padding: 0.1px;
+	background: #521b1a;
+	border-radius: 10px;
+	color: white;
+}
+.content2{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	height: 100%;
+	padding: 0.1px;
+	background: #521b1a;
+	border-radius: 10px;
+	color: white;
+}
+.content3{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	height: 100%;
+	padding: 0.1px;
+	background: #521b1a;
+	border-radius: 10px;
+	color: white;
+}
+.content4{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	height: 100%;
+	padding: 0.1px;
+	background: #521b1a;
+	border-radius: 10px;
+	color: whitesmoke;
+}
+.border{
+	border: 2px solid #944b4a;
+	margin-top: 0;
+	padding-bottom: 1pc;
+	padding-left: 2pc;
+	padding-right: 2pc;
+}

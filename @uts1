@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ulangan Tengah Semester</title>
+	<link rel="stylesheet" type="text/css" href="@uts.css">
+</head>
+<body>
+	<div class="header">
+<h1 align="center">
+	Hasil UTS
+</h1>
+</div>
+<div class="menu">
+<ul>
+	<li><a href="@uts.html">Home</a></li>
+	<li><a href="@profil.html">Profil</a></li>
+	<li><a href="@sejarah.html">Sejarah</a></li>
+	<li><a href="@sistem.html">Sistem & Hadiah</a></li>
+</ul>
+</div>
